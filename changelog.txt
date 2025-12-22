@@ -1,4 +1,4 @@
-[B]2.4.3[/B]
+https://github.com/Blevins42069/metadata.filmweb.pl/blob/master/filmweb.xml[B]2.4.3[/B]
 - poprawka: Pobieranie okładki
 [B]2.4.2[/B]
 - Poprawka: Pobieranie tagline
